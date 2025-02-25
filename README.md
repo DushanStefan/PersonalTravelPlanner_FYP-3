@@ -1,0 +1,1 @@
+Personal Travel Planner system that generates personalized travel plans based on user profiles created from user emails, calendar events, and past chats. The system responds to user queries and can also proactively ask questions to refine and generate more tailored plans.
